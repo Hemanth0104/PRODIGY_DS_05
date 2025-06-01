@@ -83,24 +83,7 @@ This repository presents an in-depth exploratory data analysis (EDA) of the [US 
 - Correlation Heatmap
 
  ![crr-1](https://github.com/user-attachments/assets/089813e4-feee-4e85-b184-34ee276c5988)
- Missing Value Bar Plot
- ![missing_data](https://github.com/user-attachments/assets/47740da8-44b7-4bbc-ad4c-0f14d8598b7c)
-
-- Accident Count by:
-  - State
-  - ![num of_states](https://github.com/user-attachments/assets/8799bcae-ee3e-4d5d-b6a4-91afa2ec6ec1)
-
-  - City
-  - ![num_of_cities](https://github.com/user-attachments/assets/897f2e93-b2ad-423a-9e63-50a171711680)
-
-  
-  - Weekday
-  - ![num_accidents_diff_weekdays](https://github.com/user-attachments/assets/70e48e57-73db-4771-94c3-7621fe45348c)
-
-  - Weather Conditions
  
-  - ![wCond_timeA](https://github.com/user-attachments/assets/f87e3e01-848c-4bb2-9c75-61a885380002)
-
 
 - Pie Chart for Severity Distribution
  ![piechart](https://github.com/user-attachments/assets/5b1fe60a-936e-4fad-b53c-bd4bf5c38fe9)
