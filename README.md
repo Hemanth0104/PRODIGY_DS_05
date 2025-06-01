@@ -87,10 +87,10 @@ This repository presents an in-depth exploratory data analysis (EDA) of the [US 
   ![bar_plot](https://github.com/user-attachments/assets/d71d636a-94ba-4da7-a89e-5f38a1f8f987)
 - Accident Count by:
   - State
-  - ![accidents in different sates](https://github.com/user-attachments/assets/9152980c-6802-485e-ba37-509f0cf92d9c)
+   ![accidents in different sates](https://github.com/user-attachments/assets/9152980c-6802-485e-ba37-509f0cf92d9c)
 
   - City
-  - ![accidents in different cities](https://github.com/user-attachments/assets/23ae49ff-7496-4243-865e-3e72cf6b6475)
+   ![accidents in different cities](https://github.com/user-attachments/assets/23ae49ff-7496-4243-865e-3e72cf6b6475)
 
   
   - Weekday
@@ -101,10 +101,10 @@ This repository presents an in-depth exploratory data analysis (EDA) of the [US 
   ![Wconditions](https://github.com/user-attachments/assets/79614ad7-55eb-4931-b3fe-bcfd3796a00c)
 
 - Pie Chart for Severity Distribution
-- ![piechart](https://github.com/user-attachments/assets/5b1fe60a-936e-4fad-b53c-bd4bf5c38fe9)
+ ![piechart](https://github.com/user-attachments/assets/5b1fe60a-936e-4fad-b53c-bd4bf5c38fe9)
 
 - Latitude/Longitude-based Scatter Plot of Accident Locations
-- ![map1](https://github.com/user-attachments/assets/011497e8-71ac-42ab-af8b-b736cbc8d828)
+ ![map1](https://github.com/user-attachments/assets/011497e8-71ac-42ab-af8b-b736cbc8d828)
 ![map](https://github.com/user-attachments/assets/c7d1f309-3e3a-4632-aaf7-171402d82062)
 
 
